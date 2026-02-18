@@ -1,0 +1,48 @@
+.or{
+    background-color: orange;
+}
+.wh{
+    background-color: blue;
+}
+.gre{
+    background-color: green;
+}
+.box{
+
+    width: 100px;
+    height: 100px;
+
+}
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    
+    <div class="or">
+       <p class="box"></p>
+
+    </div>
+    <div class="wh">
+        <p class="box"></p>
+
+    </div>
+    <div class="gre">
+     <p class="box"></p>
+
+    </div>
+    
+    
+</body>
+</html>
